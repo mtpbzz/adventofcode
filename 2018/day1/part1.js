@@ -12,4 +12,4 @@ const result = (input) => {
     return total;
 }
   
-  result(read("../input.txt"));
+  result(read("./input.txt"));
