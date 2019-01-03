@@ -26,5 +26,5 @@ const result = (input) => {
     return frequency;
 }
   
-  result(read("./input.txt"));
+  result(read("../input.txt"));
 
