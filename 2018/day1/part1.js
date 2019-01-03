@@ -1,4 +1,4 @@
-const { read } = require("./parser");
+const { read } = require("../parser");
 
 const result = (input) => {
     let list = input.trim().split('\n').map(x => parseInt(x.trim(), 10));
